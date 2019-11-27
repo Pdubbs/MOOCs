@@ -1,0 +1,11 @@
+li {
+	color: blue;
+}
+
+ul.square {
+	list-style-type: square;
+}
+
+.helv {
+	font-family: Helvetica
+}
